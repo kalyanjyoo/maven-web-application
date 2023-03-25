@@ -8,7 +8,7 @@
 </head>
 </head>
 <body>
-<h1 align="center"> FINALLY DEPLOYED SUCCESFULLY IN STAGE </h1>
+<h1 align="center"> FINALLY DEPLOYED SUCCESFULLY IN QA test branch </h1>
 <h1 align="center"> completed </h1>
 <hr>
 <br>

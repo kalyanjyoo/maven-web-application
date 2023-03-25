@@ -10,7 +10,7 @@ pipeline {
 
         stage('CheckOutCode') {
             steps {
-                git credentialsId: '81a7bc69-4217-42b5-abb9-2408dc88549f', url: 'https://github.com/kalyannkotni/maven-web-application.git'
+                git branch: 'QA', credentialsId: '81a7bc69-4217-42b5-abb9-2408dc88549f', url: 'https://github.com/kalyannkotni/maven-web-application.git'
             }
         }
 
